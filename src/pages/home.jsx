@@ -4,7 +4,7 @@ import AddTransactionButton from '@/components/add-transaction-button'
 import Balance from '@/components/balance'
 import { ChartPieLegend } from '@/components/chart-pie-legend'
 import DateSelection from '@/components/date-select'
-import Header from '@/components/Header'
+import Header from '@/components/header'
 import TransactionsTable from '@/components/transactions-table'
 import { useAuthContext } from '@/contexts/auth'
 
