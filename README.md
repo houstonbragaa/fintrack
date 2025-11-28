@@ -1,5 +1,7 @@
 # Fintrack
 
+<img src="public/img-doc.png"/>
+
 Fintrack é uma aplicação web para controle e visualização das suas finanças pessoais, com foco em simplicidade e experiência de uso. Permite o cadastro de ganhos, gastos e investimentos, exibe dashboard intuitivo, gráficos e uma tabela detalhada de transações.
 
 ## 🚀 Visão Geral
