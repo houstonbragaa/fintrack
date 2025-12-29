@@ -129,8 +129,6 @@ src/
 
 - Tokens seguros no localStorage (access/refresh)
 - Atualização automática de tokens expirados
-- Responsividade por padrão
-- Código comentado nas principais funções
 
 ---
 
